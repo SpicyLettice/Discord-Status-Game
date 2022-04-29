@@ -1,6 +1,10 @@
 # Discord-Status-Game
 Using discords Rich Presence to show a links.
 
+Prefer watching a video. Here ive linked one.
+https://www.youtube.com/watch?v=Vx2HAZu1ipw&t=700s
+^ If you get confused refer to this video. They describe the process alot better.
+
 Follow the intructions to create this in your discord profile.
 
 ![Screenshot 2022-04-29 at 15 40 21](https://user-images.githubusercontent.com/103954090/165967149-67484892-53e1-4246-8cb0-dd51b7ecddd1.png)
@@ -85,4 +89,17 @@ Now guessing you've done everything right you can now add the Rich Presence to t
 You will need your APPLICATION ID which is in the General Information. This is the place i sais "you need this later"
 Now you can copy and paste all the infomation found in Rich Presence Visualizer. Make sure its exactly the same on the visualixer and the plugin.
 
-![Screenshot 2022-04-29 at 16 13 27](https://user-images.githubusercontent.com/103954090/165973506-a567880b-9f88-455a-acb8-992216a27491.png)
+![Screenshot 2022-04-29 at 16 13 27](https://user-images.githubusercontent.com/103954090/165973506-a567880b-9f88-455a-acb8-992216a27491!
+[Screenshot 2022-04-29 at 16 16 25](https://user-images.githubusercontent.com/103954090/165973701-7959ec16-cbad-4236-8368-41b8616bdd74.png)
+.png)
+
+Now if you scroll down far enough. You should see "button 1 label" This is the name of your button.
+Just below it there is "Button 1 url" Putt the hhtps url here. This will redirect people to the link.
+
+Futher Notes: Some devices bug out and wont be able to use the buttons. This is a bug. So far i haven't found any work around. Also, the device you've set this up on wont be able to access the buttons. Thos is another bug. But it dose work just log in on alt or get a friend to test it.
+
+Also, this will disappear if the device its set up on is in sleep or shut down.
+Therefore, if u set this up on a laptop and closed down your laptop it will disapper. 
+
+Credit to source:
+https://github.com/rauenzi/BDPluginLibrary/tree/379e15a7505851f8568
