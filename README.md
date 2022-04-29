@@ -84,3 +84,5 @@ Now guessing you've done everything right you can now add the Rich Presence to t
 
 You will need your APPLICATION ID which is in the General Information. This is the place i sais "you need this later"
 Now you can copy and paste all the infomation found in Rich Presence Visualizer. Make sure its exactly the same on the visualixer and the plugin.
+
+![Screenshot 2022-04-29 at 16 13 27](https://user-images.githubusercontent.com/103954090/165973506-a567880b-9f88-455a-acb8-992216a27491.png)
